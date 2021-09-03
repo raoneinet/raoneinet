@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raoneinet
 - 👀 I’m interested in biological languages, computational languages, codes.
-- 🌱 I’m currently learning JavaScript
+- 🌱 Technologies I know: HTML5, CSS3, BOOTSTRAP, JAVASCRIP, MYSQL, WORDPRESS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me raoneinet@hotmail.com
 
