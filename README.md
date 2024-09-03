@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raoneinet
 - 👀 Tech enthusiast
-- 🌱 HTML, CSS, BOOTSTRAP, JAVASCRIP, WORDPRESS.
+- 🌱 HTML, CSS, BOOTSTRAP, JAVASCRIP, TYPESCRIPT, WORDPRESS.
 - 💞️ Front-End Web Development...
 - 📫 How to reach me raoneinet@hotmail.com
 
