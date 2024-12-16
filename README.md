@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @raoneinet
+- 👋 Hi, I’m Raone Ferreira
 - 👀 Tech enthusiast
 - 🌱 HTML, CSS, BOOTSTRAP, JAVASCRIP, TYPESCRIPT, WORDPRESS.
-- 💞️ Front-End Web Development...
+- 💞️ Front-End
 - 📫 How to reach me raoneinet@hotmail.com
 
 <!---
