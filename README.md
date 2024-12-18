@@ -1,8 +1,10 @@
-- 👋 Hi, I’m Raone Ferreira
-- 👀 Tech enthusiast
-- 🌱 HTML, CSS, BOOTSTRAP, JAVASCRIP, TYPESCRIPT, WORDPRESS.
-- 💞️ Front-End
-- 📫 How to reach me raoneinet@hotmail.com
+- 👋 Olá, sou Raone Ferreira
+- 👀 Apaixonado por tecnologia e seu complexo funcionamento.
+- 💞️ Em busca de desenvolver minhas habilidades.
+- 🌱Tecnologias que conheço:
+-  HTML, CSS, BOOTSTRAP, JAVASCRIP, TYPESCRIPT, WORDPRESS.
+-  
+- 📫 Sugestão ou conselho: raoneinet@hotmail.com
 
 <!---
 raoneinet/raoneinet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
