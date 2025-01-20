@@ -2,7 +2,7 @@
 - 👀 Apaixonado por tecnologia e seu complexo funcionamento.
 - 💞️ Em busca de desenvolver minhas habilidades.
 - 🌱Tecnologias que conheço:
--  HTML, CSS, BOOTSTRAP, JAVASCRIP, TYPESCRIPT, WORDPRESS.
+-  HTML, CSS, BOOTSTRAP, JAVASCRIP, TYPESCRIPT, WORDPRESS, PHP.
 -  
 - 📫 Sugestão ou conselho: raoneinet@hotmail.com
 
