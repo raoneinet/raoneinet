@@ -2,7 +2,7 @@
 - 👀 Apaixonado por tecnologia e seu complexo funcionamento.
 - 💞️ Em busca de desenvolver minhas habilidades.
 - 🌱Tecnologias que conheço:
-![wordpress](https://github.com/user-attachments/assets/b6daa8ee-5498-4330-ac1c-2c4437036571)
+![wordpress](https://github.com/user-attachments/assets/b6daa8ee-5498-4330-ac1c-2c4437036571/w15px)
 ![typescript](https://github.com/user-attachments/assets/a86e6448-38c1-4d5b-92b1-6afb370726e1)
 ![tailwind](https://github.com/user-attachments/assets/6a06adb9-cc9e-4fd0-b24a-18e46d875771)
 ![react](https://github.com/user-attachments/assets/f3f4daf6-c5fb-4945-b11c-e69355cad289)
